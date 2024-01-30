@@ -1,0 +1,8 @@
+django
+python-dotenv
+psycopg2
+djangorestframework
+djangorestframework-simplejwt
+django-crispy-forms
+django-allauth
+openai==0.28
